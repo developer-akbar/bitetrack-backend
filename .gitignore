@@ -1,0 +1,18 @@
+# Ignore all env files across frontend & backend
+**/.env
+
+# Node modules
+**/node_modules/
+
+# Build artifacts
+**/dist/
+**/build/
+
+# Logs
+**/*.log
+
+# OS / Editor files
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
